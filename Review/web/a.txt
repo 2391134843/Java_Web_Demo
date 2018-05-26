@@ -1,0 +1,9 @@
+CREATE TABLE students(
+uid varchar(50) primary key,
+username varchar(20) default null,
+password varchar(20) ,
+name varchar(20) default null,
+sex VARCHAR (20) DEFAULT null,
+telephone varchar(20) default null,
+email varchar(20) default null
+);

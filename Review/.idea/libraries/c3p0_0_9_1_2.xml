@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jar/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar/commons-dbutils-1.6-bin/commons-dbutils-1.6/commons-dbutils-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
